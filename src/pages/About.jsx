@@ -6,10 +6,10 @@ function About() {
       {/* ABOUT IMG SART */}
       <div className="diff mt-10 mb-16 rounded-3xl aspect-[16/9]">
         <div className="diff-item-1">
-          <img alt="" src="./public/9.jpg" />
+          <img alt="" src="/9.jpg" />
         </div>
         <div className="diff-item-2">
-          <img alt="" src="./public/14.jpg" />
+          <img alt="" src="/14.jpg" />
         </div>
         <div className="diff-resizer"></div>
       </div>

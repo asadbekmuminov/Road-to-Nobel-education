@@ -13,7 +13,7 @@ function Home() {
         <div className="carousel carousel-center md:mx-0 mx-auto max-w-sm p-4 mb-9 space-x-4 bg-[#f3b017] rounded-box">
           <div className="carousel-item ">
             <img
-              src="./public/7.jpg"
+              src="/7.jpg"
               className="rounded-box object-cover "
               width={"250px"}
               height={"150px"}
@@ -21,7 +21,7 @@ function Home() {
           </div>
           <div className="carousel-item">
             <img
-              src="./public/4.jpg"
+              src="/4.jpg"
               className="rounded-box object-cover "
               width={"250px"}
               height={"150px"}
@@ -29,7 +29,7 @@ function Home() {
           </div>
           <div className="carousel-item">
             <img
-              src="./public/15.jpg"
+              src="/15.jpg"
               className="rounded-box object-cover "
               width={"250px"}
               height={"150px"}
@@ -37,7 +37,7 @@ function Home() {
           </div>
           <div className="carousel-item">
             <img
-              src="./public/16.jpg"
+              src="/16.jpg"
               className="rounded-box object-cover "
               width={"250px"}
               height={"150px"}
@@ -45,7 +45,7 @@ function Home() {
           </div>
           <div className="carousel-item">
             <img
-              src="./public/18.jpg"
+              src="/18.jpg"
               className="rounded-box object-cover "
               width={"250px"}
               height={"150px"}
@@ -53,7 +53,7 @@ function Home() {
           </div>
           <div className="carousel-item">
             <img
-              src="./public/19.jpg"
+              src="/19.jpg"
               className="rounded-box object-cover "
               width={"250px"}
               height={"150px"}
@@ -61,7 +61,7 @@ function Home() {
           </div>
           <div className="carousel-item">
             <img
-              src="./public/21.jpg"
+              src="/21.jpg"
               className="rounded-box object-cover "
               width={"250px"}
               height={"150px"}
@@ -91,7 +91,7 @@ function Home() {
       <div
         className="hero min-h-screen mb-10"
         style={{
-          backgroundImage: "url(./public/nobel-logo.png)",
+          backgroundImage: "url(/nobel-logo.png)",
         }}
       >
         <div className="hero-overlay bg-opacity-60"></div>

@@ -83,7 +83,7 @@ function Contact() {
       <div className="carousel bg-[#f3b017] mb-10 carousel-center rounded-box">
         <div className="carousel-item">
           <img
-            src="./public/1.jpg"
+            src="/1.jpg"
             className="rounded-box object-cover "
             width={"300px"}
             height={"200px"}
@@ -91,7 +91,7 @@ function Contact() {
         </div>
         <div className="carousel-item">
           <img
-            src="./public/3.jpg"
+            src="/3.jpg"
             className="rounded-box object-cover "
             width={"300px"}
             height={"200px"}
@@ -99,7 +99,7 @@ function Contact() {
         </div>
         <div className="carousel-item">
           <img
-            src="./public/5.jpg"
+            src="/5.jpg"
             className="rounded-box object-cover "
             width={"300px"}
             height={"200px"}
@@ -107,7 +107,7 @@ function Contact() {
         </div>
         <div className="carousel-item">
           <img
-            src="./public/6.jpg"
+            src="/6.jpg"
             className="rounded-box object-cover "
             width={"300px"}
             height={"200px"}
@@ -115,7 +115,7 @@ function Contact() {
         </div>
         <div className="carousel-item">
           <img
-            src="./public/10.jpg"
+            src="/10.jpg"
             className="rounded-box object-cover "
             width={"300px"}
             height={"200px"}
@@ -123,7 +123,7 @@ function Contact() {
         </div>
         <div className="carousel-item">
           <img
-            src="./public/11.jpg"
+            src="/11.jpg"
             className="rounded-box object-cover "
             width={"300px"}
             height={"200px"}
@@ -131,7 +131,7 @@ function Contact() {
         </div>
         <div className="carousel-item">
           <img
-            src="./public/12.jpg"
+            src="/12.jpg"
             className="rounded-box object-cover "
             width={"300px"}
             height={"200px"}
@@ -139,7 +139,7 @@ function Contact() {
         </div>
         <div className="carousel-item">
           <img
-            src="./public/15.jpg"
+            src="/15.jpg"
             className="rounded-box object-cover "
             width={"300px"}
             height={"200px"}
@@ -147,7 +147,7 @@ function Contact() {
         </div>
         <div className="carousel-item">
           <img
-            src="./public/16.jpg"
+            src="/16.jpg"
             className="rounded-box object-cover "
             width={"300px"}
             height={"200px"}
@@ -155,14 +155,14 @@ function Contact() {
         </div>
         <div className="carousel-item">
           <img
-            src="./public/17.jpg"
+            src="/17.jpg"
             className="rounded-box object-cover "
             width={"300px"}
             height={"200px"}
           />
           <div className="carousel-item">
             <img
-              src="./public/19.jpg"
+              src="/19.jpg"
               className="rounded-box object-cover "
               width={"300px"}
               height={"200px"}
@@ -170,7 +170,7 @@ function Contact() {
           </div>
           <div className="carousel-item">
             <img
-              src="./public/21.jpg"
+              src="/21.jpg"
               className="rounded-box object-cover "
               width={"300px"}
               height={"200px"}
@@ -178,7 +178,7 @@ function Contact() {
           </div>
           <div className="carousel-item">
             <img
-              src="./public/22.jpg"
+              src="/22.jpg"
               className="rounded-box object-cover "
               width={"300px"}
               height={"200px"}

@@ -43,7 +43,7 @@ function Footer() {
             <li className="flex items-center gap-3">
               <MdOutlineQrCode2 />
               <img
-                src="./public/nobel_qr.jpg"
+                src="/nobel_qr.jpg"
                 alt=""
                 width={"100px"}
                 height={"100px"}
