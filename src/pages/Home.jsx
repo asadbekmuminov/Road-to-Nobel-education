@@ -4,13 +4,13 @@ function Home() {
   return (
     <>
       {/* //HERO START */}
-      <div className="flex md:flex-row flex-col gap-5 mb-6 pt-10 justify-between">
+      <div className="flex md:flex-row flex-col items-center gap-5 mb-6 pt-10 justify-between">
         <div className="max-w-lg">
           <p className="text-[#f3b017] font-black md:text-6xl text-4xl pt-6 mb-10">
             "Road to Nobel" bilan farzandingizni "Nobel" sari yetaklang!
           </p>
         </div>
-        <div className="carousel carousel-center md:mx-0 mx-auto max-w-sm p-4 mb-9 space-x-4 bg-[#f3b017] rounded-box">
+        <div className="carousel carousel-center    max-w-xs p-4 mb-9 space-x-4 bg-[#f3b017] rounded-box">
           <div className="carousel-item ">
             <img
               src="/7.jpg"
@@ -72,7 +72,7 @@ function Home() {
       {/* //HERO END  */}
 
       {/* //DIFF START */}
-      <div className="diff rounded-2xl aspect-[16/9] mb-10">
+      <div className="diff  rounded-2xl aspect-[16/9] mb-10">
         <div className="diff-item-1">
           <div className="bg-[#f3b017] text-[#113c58]  md:text-8xl text-4xl sm:text-5xl font-black grid place-content-center">
             Road to Nobel
@@ -89,19 +89,19 @@ function Home() {
 
       {/* HERO BG IMAGE START */}
       <div
-        className="hero min-h-screen mb-10"
+        className="hero   mb-10"
         style={{
           backgroundImage: "url(/nobel-logo.png)",
         }}
       >
         <div className="hero-overlay bg-opacity-60"></div>
         <div className="flex flex-col gap-5">
-          <p className="text-4xl max-w-xl text-center font-bold text-[#fff]">
+          <p className="text-4xl max-w-lg text-center font-bold text-[#fff]">
             "Road to Nobel" jamoasi ushbu reja asosida ishlaydi!🫡
           </p>
           <div className="hero-content text-center  text-neutral-content">
             <button
-              className="btn  text-xl font-bold text-black h-16  btn-info  w-80"
+              className="btn  text-xl font-bold text-black h-16  btn-info  w-64"
               onClick={() => document.getElementById("my_modal_1").showModal()}
             >
               TARBIYA
@@ -123,7 +123,7 @@ function Home() {
           </div>
           <div className="hero-content text-center  text-neutral-content">
             <button
-              className="btn  text-xl font-bold text-black h-16  btn-error w-80"
+              className="btn  text-xl font-bold text-black h-16  btn-error w-64"
               onClick={() => document.getElementById("my_modal_2").showModal()}
             >
               INTIZOM
@@ -146,7 +146,7 @@ function Home() {
           </div>
           <div className="hero-content text-center  text-neutral-content">
             <button
-              className="btn   text-xl font-bold text-black h-16  btn-warning w-80"
+              className="btn   text-xl font-bold text-black h-16  btn-warning w-64"
               onClick={() => document.getElementById("my_modal_3").showModal()}
             >
               TA'LIM
@@ -168,7 +168,7 @@ function Home() {
           </div>
           <div className="hero-content text-center  text-neutral-content">
             <button
-              className="btn text-xl font-bold text-black h-16  btn-success w-80"
+              className="btn text-xl font-bold text-black h-16  btn-success w-64"
               onClick={() => document.getElementById("my_modal_4").showModal()}
             >
               MUVAFFAQIYAT
